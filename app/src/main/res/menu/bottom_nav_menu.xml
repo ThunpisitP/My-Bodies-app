@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffff">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_pressed"
+        android:title="@string/title_home"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/nav_bmi_bmr"
+        android:icon="@drawable/bmi_bmr_pressed"
+        android:title="@string/title_bmi_bmr"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/nav_body_fat"
+        android:icon="@drawable/bodyfat_pressed"
+        android:title="@string/title_body_fat"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/history_pressed"
+        android:title="@string/title_history"
+        app:showAsAction="ifRoom"/>
+</menu>

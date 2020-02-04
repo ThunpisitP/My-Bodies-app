@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Bodies</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_bmi_bmr">BMR BMI</string>
+    <string name="title_body_fat">Body fat</string>
+    <string name="title_history">History</string>
+    <string name="AboutThis">About this application</string>
+    <string name="AboutThisText">\t\tMore than six million individuals all over the world have tried our Fitness Calculator. American health authorities recommend our calculator over other non-exercise models to estimate how fit you really are. You should test your fitness age too, by clicking the image below, but let us first explain what makes our calculator so special and popular.</string>
+    <string name="InputInfo">Input your information</string>
+    <string name="Introduction">\t\tFor the good deed of calculating, we got you cover with one input then you can view every calculate category that is provided for you</string>
+    <string name="slide_left">** Select category in Navigation bar to continue **</string>
+    <string name="BMI_BMR_title">BMI, BMR Calculator</string>
+    <string name="Age">Age</string>
+    <string name="Height">Height</string>
+    <string name="Weight">Weight</string>
+    <string name="Sex">Sex</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Activity">Activity Factor</string>
+    <string name="BMI_BMR_result">Click to see the result</string>
+</resources>
